@@ -1,0 +1,12 @@
+financial-statements-app/
+│
+├── app.py
+├── accounting/
+│   ├── __init__.py
+│   ├── income_statement.py
+│   ├── cash_flow.py
+│   ├── balance_sheet.py
+│   └── validator.py
+│
+├── requirements.txt
+├── README.md
